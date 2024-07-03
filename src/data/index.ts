@@ -72,7 +72,7 @@ export const products: Product[] = [
     slug: "caja-exagonal",
     price: 7500,
     link_whatsapp: 'https://wa.link/nzv300',
-    description: "Caja exagonal medida de 27*27*8cm de fondo.",
+    description: "Caja exagonal, medida de 27*27*8cm de fondo.",
     cover: "/exagonal.jpeg", // Actualiza la URL de la imagen de la caja máxima
     coverCredits: "",
     category: ProductCategory.cratebox,
@@ -84,7 +84,7 @@ export const products: Product[] = [
     slug: "max-crate-box",
     price: 15000,
     link_whatsapp: 'https://wa.link/nzv300',
-    description: "Soporte pata todo tipo de celular mobil medias de 17*8cm.",
+    description: "Soporte pata todo tipo de celular mobil medidas de 17*8cm.",
     cover: "/soporte.jpeg", // Actualiza la URL de la imagen de la caja máxima
     coverCredits: "",
     category: ProductCategory.cratebox,
@@ -192,7 +192,7 @@ export const products: Product[] = [
     slug: "mesa-en-madera",
     price: 15000,
     link_whatsapp: 'https://wa.link/nzv300',
-    description: "mesa para desayunos con patas plegabels, medidas de 37*27*30*5cm de fondo.",
+    description: "mesa para desayunos con patas plegables, medidas de 37*27*30*5cm de fondo.",
     cover: "/mesa.jpeg", // Actualiza la URL de la imagen de la caja máxima
     coverCredits: "",
     category: ProductCategory.cratebox,
