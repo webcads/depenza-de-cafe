@@ -5,8 +5,8 @@
 export const tutorialText = "About us";
 export const tutorialHref = "#";
 
-export const previousText = "¡Obtenga descuentos al retornar la caja!";
-export const previousHref = "#";
+export const previousText = "¡Obtenga descuentos apartir de 6 unidades!";
+export const previousHref = "https://wa.link/nzv300";
 
 export const githubText   = "otro"
 export const githubHref   = "#"
