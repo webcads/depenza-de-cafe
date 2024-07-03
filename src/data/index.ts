@@ -20,22 +20,22 @@ export interface Product {
 export const products: Product[] = [
   {
     id: 32,
-    name: "S-Crate Box",
-    slug: "s-crate-box",
+    name: "Vinera en pino",
+    slug: "vinera-en-pino-2024-barata-artesanal-colombiano",
     price: 12000,
-    link_whatsapp: 'https://wa.link/eih1a6',
-    description: "Esta box tiene lo mínimo para asegurar la diversión con un grupo de panas. contiene 6 unidades. Procura llevar contigo una botella de agua",
-    cover: "/s.png",
+    link_whatsapp: 'https://wa.link/wikb5c',
+    description: "Caja de madera fina de Dimensiones: 33x10x9cm ",
+    cover: "/s.png", //imagen link o direccion
     coverCredits: "",
     category: ProductCategory.cratebox,
-    units: 6,
+    units: 10,
   },
   {
     id: 33,
     name: "M-Crate Box",
     slug: "m-crate-box",
     price: 18000,
-    link_whatsapp: 'https://wa.link/eih1a6',
+    link_whatsapp: 'https://wa.link/wikb5c',
     description: "Perfecta para una tarde inolvidable con amigos. La M-Crate Box asegura una experiencia compartida. Contiene 9 unidades,  No olvides llevar tus snacks favoritos.",
     cover: "/m.png", // Actualiza la URL de la imagen de la caja mediana
     coverCredits: "",
@@ -53,6 +53,18 @@ export const products: Product[] = [
     coverCredits: "",
     category: ProductCategory.cratebox,
     units: 50,
+  },
+  {
+    id: 35,
+    name: "Max-Crate Box",
+    slug: "max-crate-box",
+    price: 200000,
+    link_whatsapp: 'https://wa.link/eih1a6',
+    description: "Para los eventos más grandes, la Max-Crate Box es la opción definitiva. Con un máximo de 100 unidades, esta caja está diseñada para aquellos que buscan llevar su experiencia al siguiente nivel. Perfecta para festivales y grandes reuniones.",
+    cover: "/extra.png", // Actualiza la URL de la imagen de la caja máxima
+    coverCredits: "",
+    category: ProductCategory.cratebox,
+    units: 100,
   },
   {
     id: 35,
