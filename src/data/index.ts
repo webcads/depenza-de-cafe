@@ -201,7 +201,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "JOYERO",
-    slug: "joyero-en-mdf ",
+    slug: "joyero-en-mdf",
     price: 25000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "joyero en mdf, madera o triplex, medidas de 40*40",
