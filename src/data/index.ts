@@ -21,7 +21,7 @@ export const products: Product[] = [
   {
     id: 32,
     name: "VINERA EN PINO",
-    slug: "viner en pino",
+    slug: "vinera-en-pino",
     price: 12000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Vinera en pino y tapa en tripley, para botella de 750ml medidas de 30*12*9cm de fondo",
@@ -33,7 +33,7 @@ export const products: Product[] = [
   {
     id: 33,
     name: "CANASTA DE PICNIC",
-    slug: "canasta de picnic",
+    slug: "canasta-de-picnic",
     price: 7500,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Canasta de picnic medidas de 22*22*25 de altura.",
@@ -45,7 +45,7 @@ export const products: Product[] = [
   {
     id: 34,
     name: "CAJON CON TAPA CORREDIZA",
-    slug: "CAJONES",
+    slug: "cajones",
     price: 9000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Cajon en pino y tapa en triplex con tapa corrediza, medidas de 25*25*9cm de fondo.",
@@ -57,7 +57,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "CAJON CON TAPA Y DIVISIONES",
-    slug: "CAJONES EN MADERA ",
+    slug: "cajones-de-madera",
     price: 12000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Cajon para galletas en pino con tapa corrediza y divisiones por 4, medidas de 25*25*9cm.",
@@ -69,7 +69,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "EXAGONAL",
-    slug: "caja exagonal",
+    slug: "caja-exagonal",
     price: 7500,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Caja exagonal medida de 27*27*8cm de fondo.",
@@ -93,7 +93,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "BAUL",
-    slug: "baul pirata",
+    slug: "baul-pirata",
     price: 12000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Baul en pino y triplex, medidas de 25*12*9cm sin accesorio",
