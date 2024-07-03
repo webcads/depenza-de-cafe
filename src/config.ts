@@ -11,5 +11,4 @@ export const previousHref = "https://wa.link/nzv300";
 export const githubText   = "otro"
 export const githubHref   = "#"
 
-export const titie = 'Crate Boxes'
-export const intro = 'Crate Boxes'
+
