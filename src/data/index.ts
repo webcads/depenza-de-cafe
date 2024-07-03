@@ -21,7 +21,7 @@ export const products: Product[] = [
   {
     id: 32,
     name: "VINERA EN PINO",
-    slug: "viner en pino",
+    slug: "viner-en-pino",
     price: 12000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Vinera en pino y tapa en tripley, para botella de 750ml medidas de 30*12*9cm de fondo",
@@ -33,7 +33,7 @@ export const products: Product[] = [
   {
     id: 33,
     name: "CANASTA DE PICNIC",
-    slug: "canasta de picnic",
+    slug: "canasta-de-picnic",
     price: 7500,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Canasta de picnic medidas de 22*22*25 de altura.",
@@ -45,7 +45,7 @@ export const products: Product[] = [
   {
     id: 34,
     name: "CAJON CON TAPA CORREDIZA",
-    slug: "CAJONES",
+    slug: "cajon-madera",
     price: 9000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Cajon en pino y tapa en triplex con tapa corrediza, medidas de 25*25*9cm de fondo.",
@@ -57,7 +57,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "CAJON CON TAPA Y DIVISIONES",
-    slug: "CAJONES EN MADERA ",
+    slug: "cajones-en-madera ",
     price: 12000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Cajon para galletas en pino con tapa corrediza y divisiones por 4, medidas de 25*25*9cm.",
@@ -69,7 +69,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "EXAGONAL",
-    slug: "caja exagonal",
+    slug: "caja-exagonal",
     price: 7500,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Caja exagonal medida de 27*27*8cm de fondo.",
@@ -93,7 +93,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "BAUL",
-    slug: "baul pirata",
+    slug: "baul-pirata",
     price: 12000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Baul en pino y triplex, medidas de 25*12*9cm sin accesorio",
@@ -105,7 +105,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "CORAZON",
-    slug: "Corazon en madera",
+    slug: "Corazon-en-madera",
     price: 8000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Caja en forma de corazon medidas de 30*28*7cm de fondo.",
@@ -117,7 +117,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "GUACAL",
-    slug: "Guacal en madera",
+    slug: "Guacal-en-madera",
     price: 6000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "guacal en madera pequeño, medidas de 22*22*8cm de fondo.",
@@ -129,7 +129,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "GUACAL GRANDE",
-    slug: "guacal en madera",
+    slug: "guacal-en-madera",
     price: 8000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Guacal en madera grande, medidas de 27*22*8cm de fondo.",
@@ -141,7 +141,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "CAJON GUACAL",
-    slug: "Cojon en madera",
+    slug: "Cojon-en-madera",
     price: 8000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Caja en forma de corazon medidas de 30*28*7cm de fondo",
@@ -153,7 +153,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "CAJON GUACAL",
-    slug: "guacal en madera",
+    slug: "guacal-en-madera",
     price: 9000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Cajon en madera tipo guacal con accesorios, medidas de 30*22*8cm de fondo.",
@@ -165,7 +165,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "BANDEJA",
-    slug: "bandeja en madera",
+    slug: "bandeja-en-madera",
     price: 6500,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Caja tipo bandeja, medidas de 27*27*7cm de fondo.",
@@ -177,7 +177,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "BANDEJA GRANDE",
-    slug: "bandeja en madera",
+    slug: "bandeja-en-madera",
     price: 8000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "bandeja grande, medidas de 27*37*7cm de fondo.",
@@ -189,7 +189,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "MESA PARA DESAYUNO",
-    slug: "mesa en madera",
+    slug: "mesa-en-madera",
     price: 15000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "mesa para desayunos con patas plegabels, medidas de 37*27*30*5cm de fondo.",
@@ -201,7 +201,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "JOYERO",
-    slug: "joyero en mdf ",
+    slug: "joyero-en-mdf ",
     price: 25000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "joyero en mdf, madera o triplex, medidas de 40*40",
