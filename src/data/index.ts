@@ -21,10 +21,10 @@ export const products: Product[] = [
   {
     id: 32,
     name: "VINERA EN PINO",
-    slug: "viner-en-pino",
+    slug: "vinera-en-pino",
     price: 12000,
     link_whatsapp: 'https://wa.link/nzv300',
-    description: "Vinera en pino y tapa en tripley, para botella de 750ml medidas de 30*12*9cm de fondo",
+    description: "Vinera en pino y tapa en triplex, para botella de 750ml medidas de 30*12*9cm de fondo",
     cover: "/vinera1.jpeg",
     coverCredits: "",
     category: ProductCategory.cratebox,
@@ -34,7 +34,7 @@ export const products: Product[] = [
     id: 33,
     name: "CANASTA DE PICNIC",
     slug: "canasta-de-picnic",
-    price: 7500,
+    price: 6 500,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Canasta de picnic medidas de 22*22*25 de altura.",
     cover: "/picnic.jpeg", // Actualiza la URL de la imagen de la caja mediana
@@ -120,7 +120,7 @@ export const products: Product[] = [
     slug: "Guacal-en-madera",
     price: 6000,
     link_whatsapp: 'https://wa.link/nzv300',
-    description: "guacal en madera pequeño, medidas de 22*22*8cm de fondo.",
+    description: "Guacal en madera pequeño, medidas de 30*22*8cm de fondo.",
     cover: "/guacal.jpeg", // Actualiza la URL de la imagen de la caja máxima
     coverCredits: "",
     category: ProductCategory.cratebox,
@@ -141,10 +141,10 @@ export const products: Product[] = [
   {
     id: 35,
     name: "CAJON GUACAL",
-    slug: "Cojon-en-madera",
+    slug: "cajon-en-madera",
     price: 8000,
     link_whatsapp: 'https://wa.link/nzv300',
-    description: "Caja en forma de corazon medidas de 30*28*7cm de fondo",
+    description: "Caja en forma de corazon medidas de 30*27*7cm de fondo",
     cover: "/cajonguacal.jpeg", // Actualiza la URL de la imagen de la caja máxima
     coverCredits: "",
     category: ProductCategory.cratebox,
