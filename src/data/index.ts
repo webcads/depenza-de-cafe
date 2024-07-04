@@ -1,5 +1,5 @@
 export enum ProductCategory {
-  cratebox = "crate boxes",
+  cratebox = "cajitas",
   Pants = "pants",
   Shoes = "shoes",
 }
@@ -57,7 +57,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "CAJON CON TAPA Y DIVISIONES",
-    slug: "cajones-en-madera ",
+    slug: "cajones-en-madera",
     price: 12000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Cajon para galletas en pino con tapa corrediza y divisiones por 4, medidas de 25*25*9cm.",
@@ -201,7 +201,7 @@ export const products: Product[] = [
   {
     id: 35,
     name: "JOYERO",
-    slug: "joyero-en-mdf ",
+    slug: "joyero-en-mdf",
     price: 25000,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "joyero en mdf, madera o triplex, medidas de 40*40",
