@@ -34,7 +34,7 @@ export const products: Product[] = [
     id: 33,
     name: "CANASTA DE PICNIC",
     slug: "canasta-de-picnic",
-    price: 6 500,
+    price: 6500,
     link_whatsapp: 'https://wa.link/nzv300',
     description: "Canasta de picnic medidas de 22*22*25 de altura.",
     cover: "/picnic.jpeg", // Actualiza la URL de la imagen de la caja mediana
