@@ -3,6 +3,10 @@ import { type Product, products } from "../../data";
 import Layout from "../../layouts/Layout.astro";
 const { slug } = Astro.params;
 
+
+console.log(slug)
+
+
 export function getStaticPaths() {
   return [
     ...products.map((product) => ({
